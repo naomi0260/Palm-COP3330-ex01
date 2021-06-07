@@ -3,11 +3,9 @@ package org.example;
 import java.util.Scanner;
 
 /*
-    Name: Naomi Palm
-    Class: COP3330
-    Date:6/3/2021
-    Assignment:example 01
-*/
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Naomi Palm
+ */
 public class App 
 {
     static Scanner input = new Scanner(System.in);
